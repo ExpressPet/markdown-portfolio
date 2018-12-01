@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[odkaz na moje stranky](https://expresspet.github.io/github-slideshow/#/)
